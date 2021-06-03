@@ -12,7 +12,7 @@ Put the following into your `Gemfile`:
 gem "astar", git: "https://github.com/Dan2552/astar"
 ```
 
-## mruby Installation
+## mruby Installation
 
 Put the following into your `Mundlefile`([?](https://github.com/Dan2552/mundler)) or `build_config.rb`:
 
